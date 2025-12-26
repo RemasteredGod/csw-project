@@ -1,0 +1,29 @@
+# Project Dependencies
+# Generated on 2025-12-26 18:48:17 UTC
+
+# Web Framework
+Flask==2.3.0
+Flask-CORS==4.0.0
+
+# Database
+SQLAlchemy==2.0.0
+psycopg2-binary==2.9.6
+
+# Data Processing
+pandas==2.0.0
+numpy==1.24.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Code Quality
+black==23.0.0
+flake8==6.0.0
+pylint==2.17.0
+
+# Environment Management
+python-dotenv==1.0.0
+
+# API Documentation
+Werkzeug==2.3.0
