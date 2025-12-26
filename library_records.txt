@@ -1,0 +1,87 @@
+Library Records Database
+========================
+Generated: 2025-12-26 18:48:00 UTC
+
+RECORD ID: LIB-001
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 978-0743273565
+Publication Year: 1925
+Status: Available
+Last Borrowed By: N/A
+Return Date: N/A
+Location: Shelf A-12
+
+RECORD ID: LIB-002
+Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 978-0061120084
+Publication Year: 1960
+Status: Checked Out
+Last Borrowed By: John Smith
+Return Date: 2025-12-28
+Location: Out of Library
+
+RECORD ID: LIB-003
+Title: 1984
+Author: George Orwell
+ISBN: 978-0451524935
+Publication Year: 1949
+Status: Available
+Last Borrowed By: N/A
+Return Date: N/A
+Location: Shelf B-05
+
+RECORD ID: LIB-004
+Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 978-0141439518
+Publication Year: 1813
+Status: Checked Out
+Last Borrowed By: Sarah Johnson
+Return Date: 2025-12-30
+Location: Out of Library
+
+RECORD ID: LIB-005
+Title: The Catcher in the Rye
+Author: J.D. Salinger
+ISBN: 978-0316769174
+Publication Year: 1951
+Status: Available
+Last Borrowed By: N/A
+Return Date: N/A
+Location: Shelf C-08
+
+RECORD ID: LIB-006
+Title: Brave New World
+Author: Aldous Huxley
+ISBN: 978-0060850524
+Publication Year: 1932
+Status: Available
+Last Borrowed By: N/A
+Return Date: N/A
+Location: Shelf A-18
+
+RECORD ID: LIB-007
+Title: Jane Eyre
+Author: Charlotte Brontë
+ISBN: 978-0141441146
+Publication Year: 1847
+Status: Checked Out
+Last Borrowed By: Emily Davis
+Return Date: 2025-12-29
+Location: Out of Library
+
+RECORD ID: LIB-008
+Title: Wuthering Heights
+Author: Emily Brontë
+ISBN: 978-0141439556
+Publication Year: 1847
+Status: Available
+Last Borrowed By: N/A
+Return Date: N/A
+Location: Shelf D-02
+
+Total Records: 8
+Available Books: 5
+Checked Out Books: 3
